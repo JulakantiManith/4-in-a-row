@@ -48,7 +48,7 @@ CREATE TABLE games (
 );
 ```
 
-# ⚙️ Backend Setup
+# ⚙️ Project Setup
 
 1️⃣ Navigate to Backend Folder
 ```
@@ -102,3 +102,4 @@ http://localhost:3000
 4. If no player joins within 10 seconds, a Bot opponent joins automatically.
 5. Click on a column to drop your disc — first to connect 4 in a row wins!
 6. The Leaderboard updates automatically after each match.
+
